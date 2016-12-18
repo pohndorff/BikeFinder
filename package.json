@@ -1,0 +1,33 @@
+{
+  "name": "echo-bikefinder",
+  "version": "0.0.1",
+  "description": "Skill will find the closest bikestation with stocked bikes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Amazon",
+    "echo",
+    "alexa",
+    "dot",
+    "bikefinder",
+    "api",
+    "bike"
+  ],
+  "author": "Paavo Pohndorff <paavo.pohndorff@uni-due.de>",
+  "license": "MIT",
+  "dependencies": {
+    "@google/maps": "^0.3.0",
+    "alexa-sdk": "git+https://github.com/chr8993/alexa-skills-kit-sdk-for-nodejs.git",
+    "gulp": "^3.9.1",
+    "gulp-zip": "^3.2.0",
+    "lodash": "^4.16.6",
+    "moment": "^2.15.2",
+    "q": "^1.4.1",
+    "request": "^2.78.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
