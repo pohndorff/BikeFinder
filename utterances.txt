@@ -1,0 +1,20 @@
+AskNearestIntent where is the closest bike
+AskNearestIntent where cn I find a nearby bike
+AskNearestIntent where can I rent a bike
+AskNearestIntent is there a bike closeby
+AskNearestIntent for nearest bike
+AskNearestIntent for closest bike
+AskNearestIntent where is the next bike
+AskNearestIntent where can I find the next shared bike
+AskNearestIntent is there a bike nearby
+AskNearestIntent where is the next station
+GetLocationIntent what is my location
+GetLocationIntent what is my location set to
+GetLocationIntent where am I located
+SetLocationIntent my address is {Address} {City} {State} {Zip}
+SetLocationIntent my location is {Address} {City} {State} {Zip}
+SetLocationIntent set my location to {Address} {City} {State} {Zip}
+ReceiveLocationIntent {Address} {City} {State} {Zip}
+ReceiveLocationIntent {Address} {City} {State} {Zip}
+ReceiveLocationIntent {Address} {City} {State} {Zip}
+VerifyLocationIntent {VerifyResponses}
