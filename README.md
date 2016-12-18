@@ -3,6 +3,7 @@ BikeFinder is an Alexa Skill including front and back end
 
 # Installation
 git clone https://github.com/pohndorff/BikeFinder.git
+
 cd ~/BikeFinder && npm install && gulp
 
 # Config
